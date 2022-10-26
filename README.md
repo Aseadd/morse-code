@@ -25,7 +25,7 @@ You need to have Ruby installed on your machine.
 
 ## Authors ##
 
-* **Addis Tsega**
+**Addis Tsega**
 
 - GitHub: [@Aseadd](https://github.com/Aseadd)
 
@@ -33,7 +33,7 @@ You need to have Ruby installed on your machine.
 
 - Twitter: [@addis](https://twitter.com/@adaTsega)
 
-* **Andy Menutti**
+**Andy Menutti**
 
 - GitHub: [@andym80](https://github.com/andym80)
 
