@@ -1,4 +1,4 @@
-# morse-code
+# Morse Code
 Decode a Morse code message
 
 ## Getting Started
