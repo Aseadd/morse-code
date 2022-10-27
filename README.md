@@ -5,7 +5,7 @@ Decode a Morse code message
 
 Clone the repository and run into your terminal:
 
-ruby morse_code.rb
+ruby morse.rb
 
 FOR EXAMPLE:
 
